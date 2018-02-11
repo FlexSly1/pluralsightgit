@@ -1,1 +1,3 @@
 More changes for File 3.
+
+Stashed changes.
