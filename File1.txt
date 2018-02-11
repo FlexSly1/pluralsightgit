@@ -4,3 +4,5 @@ Additional changes to File 1.
 Amended changes.
 
 Changes in v2.0
+
+Changes after initial pull
